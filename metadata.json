@@ -1,0 +1,6 @@
+{
+  "name": "Crimson Vitals",
+  "description": "Dark Berserk-inspired hardware diagnostics and device telemetry with liquid glass cards, crimson accents, and real-time vitals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
